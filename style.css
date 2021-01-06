@@ -1,0 +1,166 @@
+body{
+    margin:0;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: #363958;
+    font-size: 36px;
+}
+.text-color{ 
+    color:#FF8367;
+}
+P{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 8%;
+    margin-top: 3%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 60px;
+    font-size: 16px;
+}
+.half-width img{
+    width: 600;
+    height: 450px;
+}
+.About {
+    padding-top: 500px;
+} 
+.work-heading{
+    margin-top: 600px;
+    text-align: center;
+}
+.work-heading p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    color: #363958;
+}
+.heading {
+    color:#FF8367;
+}
+.work-photo{
+    padding: 70px;
+    
+}
+.work-photo img{
+    float: left;
+    width: 30%;
+    height: 100%;
+    margin-left: 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.Graphic p{
+    margin-top: 270px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    color: #363958;
+}
+.Photos img{
+    width: 20%;
+    height: 80%;
+    margin-left: 130px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    float: left;
+    margin-top: 80px;
+    background-color: rgb(243, 236, 243);
+    padding-bottom: 80px;
+    
+}
+.clients{
+    margin: 50px auto;
+    margin-left: 100px;
+    position: center;
+}
+.review{
+    margin-top: 100px;
+    float: left;
+    text-align: center;
+}
+.review h3{
+    font-family: 'Oswald', sans-serif;
+    color: #363958;
+    font-size: 36px;
+    margin-right: 60px;
+}
+.review h4{
+    font-family: 'Oswald', sans-serif;
+    color: #363958;
+    font-size: 32px;
+    margin-right: 80px;
+}
+.review p{
+    margin-right: 80px;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    width: 21%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 30%;
+    background-color: white;
+    text-align: center;
+    margin-right: 30px;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+    width: 21%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 30%;
+    background-color: white;
+    margin-right: 30px;
+}
+.work-Inquiry{
+    margin-top: 1200px;
+    margin-left: 200px;
+}
+.work-Inquiry-heading{
+    background-image: linear-gradient(180deg, rgb(61, 74, 250), rgb(12, 57, 182));
+    width: 800px;
+    height: 80px;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20px;
+}
+.work-Inquiry-heading span{
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    color: white;
+    float: left;
+    margin-right: 400px;
+}
+.contact-info{
+    text-align: center;
+    margin-top: 40px;
+}
+.contact p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color:gray;
+    text-transform: uppercase;
+}
+.contact h3{
+    font-family: 'Oswald', sans-serif;
+    color:rgb(53, 53, 53);
+}
+
+
+
